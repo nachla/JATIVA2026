@@ -1,0 +1,25 @@
+# Environment & secrets
+.env
+.env.local
+*.env
+
+# Backend (Python)
+backend/venv/
+backend/__pycache__/
+**/__pycache__/
+*.pyc
+
+# Frontend (Node)
+frontend/node_modules/
+frontend/dist/
+frontend/.vite/
+
+# Vercel
+.vercel
+
+# Data file (jangan ikut commit, upload manual di server/Supabase Storage kalau perlu)
+backend/data_inovasi.xlsx
+
+# OS / Editor
+.DS_Store
+*.log
