@@ -1,4 +1,4 @@
-# BRIDA Jawa Timur — Dashboard Inovasi Daerah
+# JATIVA — Dashboard Inovasi Daerah Provinsi Jawa Timur
 
 ## Struktur Folder
 ```
